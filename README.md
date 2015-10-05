@@ -12,6 +12,7 @@ Never listen to a radio commercial again. The free [Lumpen Radio app](http://app
 ## Features
 
 - Streams WLPN-LP 105.5 FM Lumpen Radio Chicago
+- Background audio playback and lock screen integration
 - Gorgeous video loop with AirPlay support
 - Intelligent handling of common audio interruptions
 - Detailed connection status and play state messaging
